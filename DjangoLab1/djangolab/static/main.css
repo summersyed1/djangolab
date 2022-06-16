@@ -1,0 +1,37 @@
+
+.carousel-caption {
+    position: absolute;
+    bottom: 10%;
+    right: 71%;
+    z-index: 20;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  }
+
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+
+}
+
+.card-title{
+
+    font-size: 25px;
+    
+
+}
+
+.flex-container {
+    display: flex;
+    background-color: DodgerBlue;
+  }
+
+.flex-container > div {
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+  }
+

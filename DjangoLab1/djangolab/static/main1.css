@@ -1,0 +1,18 @@
+.carousel-caption {
+    position: absolute;
+    color:white;
+    margin-bottom: 405px;
+    
+    
+    
+    
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+  }
+
+.w-100{
+
+    width: 100px;
+
+    background-color: black;
+
+}
